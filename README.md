@@ -1,4 +1,4 @@
-# 👩‍💻 Gabrielle Arruda Rodrigues
+# 👩🏻‍💻 Gabrielle Arruda Rodrigues
 
 **`Estudante`**
 
