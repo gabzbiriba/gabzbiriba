@@ -111,7 +111,7 @@ Meu nome é Gabrielle Arruda Rodrigues, tenho 19 anos e sou de Brasília no Dist
 
 ### 📊 Estatísticas
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img 
         alt="GitHub Stats" 
         height="200" 
