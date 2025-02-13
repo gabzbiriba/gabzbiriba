@@ -124,7 +124,7 @@ Meu nome é Gabrielle Arruda Rodrigues, tenho 19 anos e sou de Brasília no Dist
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzbiriba&theme=kacho_ga&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzbiriba&theme=kacho_ga&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
 </p>
