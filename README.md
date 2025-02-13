@@ -111,11 +111,15 @@ Meu nome é Gabrielle Arruda Rodrigues, tenho 19 anos e sou de Brasília no Dist
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; align-items: center; gap: 10px;">
     <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzbiriba&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=gabzbiriba&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
-</p>
+    <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzbiriba&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+</div>
